@@ -1,0 +1,17 @@
+[33mcommit 1696742fb2c42cf47d9312042b1b7e9925426f51[m[33m ([m[1;36mHEAD -> [m[1;32malien-plot[m[33m)[m
+Author: Dawish <dawish12@gmail.com>
+Date:   Sun May 12 13:40:14 2024 +1000
+
+    modify chapter 1 and 2
+
+[33mcommit 558c9296986623f519bcdc329a7c0bd4972a84be[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Dawish <dawish12@gmail.com>
+Date:   Fri May 10 11:18:10 2024 +1000
+
+    chapter 2 an 3
+
+[33mcommit 94232ac9579404f9a52650109726704ffcf1b02a[m
+Author: Dawish <dawish12@gmail.com>
+Date:   Fri May 10 11:06:16 2024 +1000
+
+    initial commit
